@@ -1,0 +1,26 @@
+GetBeerABV how strong is {BeerName}
+GetBeerABV how strong {BeerName} is
+GetBeerABV what is the strength of {BeerName}
+GetBeerABV to check how strong {BeerName} is
+
+GetBeerInfo to tell me about {BeerName}
+GetBeerInfo tell me about {BeerName}
+GetBeerInfo about {BeerName}
+GetBeerInfo to lookup {BeerName}
+
+GetBeerStyle to lookup the style of {BeerName}
+GetBeerStyle what style is {BeerName}
+
+BeerTime what time is it
+BeerTime have you got the time
+BeerTime got the time
+
+ImDrunk I'm drunk
+ImDrunk we're drunk
+ImDrunk I am wasted
+ImDrunk I am smashed
+
+NoBeerOhDear I've run out of beer
+NoBeerOhDear I have run out of beer
+NoBeerOhDear there is no beer left
+NoBeerOhDear we drank all the beer

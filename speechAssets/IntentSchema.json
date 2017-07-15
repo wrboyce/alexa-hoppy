@@ -1,0 +1,49 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "BeerTime"
+    },
+    {
+      "intent": "ImDrunk"
+    },
+    {
+      "intent": "NoBeerOhDear"
+    },
+    {
+      "slots": [
+        {
+          "name": "BeerName",
+          "type": "BEER_NAMES"
+        }
+      ],
+      "intent": "GetBeerABV"
+    },
+    {
+      "slots": [
+        {
+          "name": "BeerName",
+          "type": "BEER_NAMES"
+        }
+      ],
+      "intent": "GetBeerInfo"
+    },
+    {
+      "slots": [
+        {
+          "name": "BeerName",
+          "type": "BEER_NAMES"
+        }
+      ],
+      "intent": "GetBeerStyle"
+    }
+  ]
+}

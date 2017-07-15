@@ -1,0 +1,30 @@
+{
+  "name": "alexa-hoppy",
+  "version": "1.0.0",
+  "description": "Brings extensive beer knowledge to Echo devices.",
+  "main": "./dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wrboyce/alexa-hoppy.git"
+  },
+  "keywords": [
+    "alexa",
+    "beer",
+    "craft beer",
+    "untappd"
+  ],
+  "author": "Will Boyce <me@willboyce.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/wrboyce/alexa-hoppy/issues"
+  },
+  "homepage": "https://github.com/wrboyce/alexa-hoppy#readme",
+  "devDependencies": {
+    "@types/alexa-sdk": "^1.0.7",
+    "@types/lodash": "^4.14.69",
+    "@types/query-string": "^4.3.1",
+    "@types/request-promise": "^4.1.36",
+    "tslint": "^5.5.0",
+    "typescript": "^2.4.1"
+  }
+}
