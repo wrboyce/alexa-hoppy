@@ -22,7 +22,7 @@
   "devDependencies": {
     "@types/alexa-sdk": "^1.0.7",
     "@types/lodash": "^4.14.69",
-    "@types/query-string": "^4.3.1",
+    "@types/query-string": "^6.3.0",
     "@types/request-promise": "^4.1.36",
     "tslint": "^5.5.0",
     "typescript": "^2.4.1"
